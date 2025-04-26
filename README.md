@@ -1,8 +1,8 @@
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+Here, I will share a list data analytics projects briefly describing the technology stack used to solve real world business cases.
 
 ### 1. Retail Sales Analysis
-**Code:** [`https://github.com/Sivadharsini298/Portfolio/blob/main/Retail_Sales_Analysis.ipynb`](https://github.com/Sivadharsini298/Portfolio/blob/main/Retail_Sales_Analysis.ipynb)
+**Code:** [`Retail_Sales_Analysis.ipynb`](https://github.com/Sivadharsini298/Portfolio/blob/main/Retail_Sales_Analysis.ipynb)
 
 **Goal:** To support data-driven decisions related to marketing, operations, and customer strategy.
 
