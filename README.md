@@ -10,6 +10,23 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 **Skills:** data cleaning, Exploratory Data Analysis(EDA), data visualization.
 
-**Technology:** Python, Pandas, Seaborn, Matplotlib.
+**Tech Stack:** Python, Pandas, Seaborn, Matplotlib.
 
 **Results:** The analysis revealed profit margins remain healthy at 11%–25%, with a balanced mix of new and returning customers across both online and in-store channels. Sales peak in June, July, and December, especially on Fridays and Saturdays, with trend analysis revealing consistent growth during festive seasons and weekends—indicating strong customer engagement in high-traffic periods
+
+### 2. IPL 2008–2023 Data Analysis Project
+**Code:** [`IPL _2008-2023_Analysis`](IPL__2008_2023_Analysis.ipynb)
+
+**Goal:** To statistically analyze IPL (2008–2023) data and uncover how toss outcomes, innings strategies, and match decisions impact winning chances, supported by hypothesis testing and visual insights.
+
+**Description:** This project analyzes ball-by-ball data from IPL seasons 2008 to 2023 to uncover patterns and test hypotheses about match outcomes.
+
+**Skills:** Data Loading and Preprocessing, Statistical Analysis - Hypothesis Testing, Visualizations.
+
+**Tech Stack
+- Python
+- Pandas
+- Seaborn / Matplotlib
+- Statistical Tests (Chi-Square, T-Test):** Python, Pandas, Seaborn, Matplotlib.
+
+**Results:** The analysis revealed, Winning the toss does not guarantee match victory. Chasing has emerged as a more successful strategy, especially in recent IPL seasons.
