@@ -23,10 +23,6 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 **Skills:** Data Loading and Preprocessing, Statistical Analysis - Hypothesis Testing, Visualizations.
 
-**Tech Stack
-- Python
-- Pandas
-- Seaborn / Matplotlib
-- Statistical Tests (Chi-Square, T-Test):** Python, Pandas, Seaborn, Matplotlib.
+**Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Statistical Tests (Chi-Square, T-Test).
 
 **Results:** The analysis revealed, Winning the toss does not guarantee match victory. Chasing has emerged as a more successful strategy, especially in recent IPL seasons.
