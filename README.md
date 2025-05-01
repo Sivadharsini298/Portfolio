@@ -3,7 +3,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 ### 1. Retail Sales Analysis
 **Code:** [`Retail_Sales_Analysis.ipynb`](https://github.com/Sivadharsini298/Portfolio/blob/main/Retail_Sales_Analysis.ipynb)
-**Dashboard:** ![Retail Sales Dashboard](Retail Sales Dashboard.png) 
+**Dashboard:** ['Retail Sales Dashboard.png'](https://github.com/Sivadharsini298/Portfolio/blob/main/Retail%20Sales%20Dashboard.png)
 
 **Goal:** To support data-driven decisions related to marketing, operations, and customer strategy.
 
