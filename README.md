@@ -17,7 +17,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 **Results:** The analysis revealed profit margins remain healthy at 11%–25%, with a balanced mix of new and returning customers across both online and in-store channels. Sales peak in June, July, and December, especially on Fridays and Saturdays, with trend analysis revealing consistent growth during festive seasons and weekends—indicating strong customer engagement in high-traffic periods
 
 ### 2. IPL 2008–2023 Data Analysis Project
-**Code:** [`IPL__2008_2023_Analysis.ipynb`](https://github.com/Sivadharsini298/Portfolio/blob/main/IPL__2008_2023_Analysis.ipynb)
+**Code:** [`IPL__2008_2023_Analysis.ipynb`](https://github.com/Sivadharsini298/Portfolio/blob/main/IPL(2008-2023)Statistical_Analysis.ipynb)
 
 **Goal:** To statistically analyze IPL (2008–2023) data and uncover how toss outcomes, innings strategies, and match decisions impact winning chances, supported by hypothesis testing and visual insights.
 
