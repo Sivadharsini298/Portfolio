@@ -28,3 +28,19 @@ Here, I will share a list data analytics projects briefly describing the technol
 **Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Statistical Tests (Chi-Square, T-Test).
 
 **Results:** The analysis revealed, Winning the toss does not guarantee match victory. Chasing has emerged as a more successful strategy, especially in recent IPL seasons.
+
+### 3. British Airways Customer Review Dashboard
+
+**File:** BritishAirwaysReview_Dashboard.twbx
+
+**Dashboard:** ![Review](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/British%20Airways%20Review%20Analysis%20Dashboard.png).
+
+**Goal:** To analyze customer reviews of British Airways and uncover insights into service ratings, satisfaction trends by aircraft type, country, and over time.
+
+**Description:** This interactive Tableau dashboard visualizes review data from March 2016 to October 2023, allowing users to filter by seat type, traveler type, aircraft, and continent. It highlights how customers rate British Airways overall and across specific services like cabin staff, food, entertainment, and value for money.
+
+**Skills:** Data Cleaning, Dashboard Design, Data Filtering & Interactivity, Time Series Analysis, Geographic Mapping.
+
+**Tech Stack:** Tableau
+
+**Results:** The analysis reveals that while the average overall rating is 4.2, specific services like entertainment (1.4) and food beverages (2.4) have low satisfaction scores. Aircraft such as Boeing 747-400 received the highest customer ratings (4.7), while A321 had the lowest (3.6). Ratings have shown a decline in recent years, signaling service quality concerns.
