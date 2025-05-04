@@ -33,7 +33,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 **To view in Tableau Public:** https://public.tableau.com/views/BritishAirwaysReviewAnalysisDashboard_17463377636260/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-**Dashboard:** ![Review](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/British%20Airways%20Review%20Analysis%20Dashboard.png).
+**Dashboard:** ![Review](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/British%20Airways%20Review%20Analysis%20Dashboard.png)
 
 **Goal:** To analyze customer reviews of British Airways and uncover insights into service ratings, satisfaction trends by aircraft type, country, and over time.
 
