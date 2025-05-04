@@ -47,7 +47,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 ### 4. Prime Video Content Analysis Dashboard
 
-**File:** ['PrimeVideo_Content_Analysis_Dashboard.pbix'](https://github.com/Sivadharsini298/Portfolio/blob/main/Amazon%20Prime%20Analysis%20Dashboard.pbix)
+**File:** [PrimeVideo_Content_Analysis_Dashboard.pbix](https://github.com/Sivadharsini298/Portfolio/blob/main/Amazon%20Prime%20Analysis%20Dashboard.pbix)
 
 **Dashboard:** ![Prime](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/Prime%20Video%20Content%20Analysis%20Dashboard.png)
  
