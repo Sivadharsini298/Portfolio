@@ -31,7 +31,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 ### 3. British Airways Customer Review Dashboard
 
-**File:** BritishAirwaysReview_Dashboard.twbx
+**Dashboard link:** https://public.tableau.com/views/BritishAirwaysReviewAnalysisDashboard_17463377636260/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Dashboard:** ![Review](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/British%20Airways%20Review%20Analysis%20Dashboard.png).
 
