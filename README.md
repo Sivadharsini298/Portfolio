@@ -44,3 +44,19 @@ Here, I will share a list data analytics projects briefly describing the technol
 **Tech Stack:** Tableau
 
 **Results:** The analysis reveals that while the average overall rating is 4.2, specific services like entertainment (1.4) and food beverages (2.4) have low satisfaction scores. Aircraft such as Boeing 747-400 received the highest customer ratings (4.7), while A321 had the lowest (3.6). Ratings have shown a decline in recent years, signaling service quality concerns.
+
+### 4. Prime Video Content Analysis Dashboard
+
+**File:** ['PrimeVideo_Content_Analysis_Dashboard.pbix'](https://github.com/Sivadharsini298/Portfolio/blob/main/Amazon%20Prime%20Analysis%20Dashboard.pbix)
+
+**Dashboard:** ![Prime](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/Prime%20Video%20Content%20Analysis%20Dashboard.png)
+ 
+**Goal:** To explore and analyze Prime Video’s content library by genre, country, rating, and release year to understand content distribution and viewing trends.
+
+**Description:** This Power BI dashboard analyzes over 9,600 titles on Prime Video, segmented by rating, genre, director count, country, and type (movie vs. TV show). It visually highlights regional content trends, growth in content over time, and the balance between TV shows and movies.
+
+**Skills:** Data Preprocessing, Power BI Dashboarding, DAX, Geo Visuals, Trend Analysis.
+
+**Tech Stack:** Power BI
+
+**Results:** The analysis reveals that TV shows make up 80% of the platform’s content. Drama and comedy dominate in terms of genres, with the highest content release surges occurring in recent years. The U.S. leads in total show count globally.
