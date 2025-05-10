@@ -2,6 +2,7 @@
 Here, I will share a list data analytics projects briefly describing the technology stack used to solve real world business cases.
 
 ### 1. Retail Sales Analysis
+
 **Code:** [`Retail_Sales_Analysis.ipynb`](https://github.com/Sivadharsini298/Portfolio/blob/main/Retail_Sales_Analysis.ipynb)
 
 **Dashboard:** ![Retail](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/Retail%20Sales%20Dashboard.png)
@@ -17,6 +18,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 **Results:** The analysis revealed profit margins remain healthy at 11%–25%, with new customers dominating across online and in-store channels. Sales peak in June, July, and December—especially on Fridays and Saturdays—indicating strong engagement during festive seasons and weekends. Los Angeles leads in performance, with Clothing and Pharmacy driving the highest engagement.
 
 ### 2. IPL 2008–2023 Data Analysis Project
+
 **Code:** [`IPL(2008-2023)Statistical_Analysis.ipynb`](https://github.com/Sivadharsini298/Portfolio/blob/main/IPL(2008-2023)Statistical_Analysis.ipynb)
 
 **Goal:** To statistically analyze IPL (2008–2023) data and uncover how toss outcomes, innings strategies, and match decisions impact winning chances, supported by hypothesis testing and visual insights.
@@ -65,6 +67,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 ### 5. Product Sales & Demand Analysis – Monday Coffee
 
 **Code:** [`MondayCoffeeAnalysis.sql`](https://github.com/Sivadharsini298/Portfolio/blob/main/MondayCoffeeAnalysis.sql)
+
 **Dashboard:** 
 ![Coffee](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/MondayCoffee%20Dashboard.png)
 
