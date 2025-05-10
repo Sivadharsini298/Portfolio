@@ -61,3 +61,19 @@ Here, I will share a list data analytics projects briefly describing the technol
 **Tech Stack:** Power BI
 
 **Results:** The analysis reveals that TV shows make up 80% of the platform’s content. Drama and comedy dominate in terms of genres, with the highest content release surges occurring in recent years. The U.S. leads in total show count globally.
+
+### 5. Product Sales & Demand Analysis – Monday Coffee
+
+**Code:** [`MondayCoffeeAnalysis.sql`](https://github.com/Sivadharsini298/Portfolio/blob/main/MondayCoffeeAnalysis.sql)
+**Dashboard:** 
+![Coffee](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/MondayCoffee%20Dashboard.png)
+
+**Goal:** To use SQL-driven analysis to evaluate product-level performance, uncover customer preferences, and guide inventory, marketing, and bundling strategies.
+
+**Description:** This project involved writing advanced SQL queries to analyze sales data at the product level. Using GROUP BY, JOIN, COUNT, and SUM operations, product-wise total orders and revenue were aggregated. ORDER BY and subqueries were used to rank best-selling products, while CASE WHEN logic identified product categories and allowed segmentation. The cleaned and aggregated SQL output was imported into Power BI for visualization.
+
+**Skills:** SQL: Aggregation, JOINs, filtering, nested queries, CASE statements, Visual storytelling.
+
+**Tech Stack:** SQL: PostgreSQL, Power BI
+
+**Result:** The analysis showed total revenue of 6M and 10.39K total orders. Pune, Chennai, and Jaipur emerged as top-performing cities. Sales peak in March, August, and November–December, aligning with seasonal demand. Top-selling products include Cold Brew Pack, Ground Espresso, and Instant Coffee Powder. The dashboard supports strategic decisions in product stocking, city targeting, and seasonal marketing campaigns.
