@@ -80,3 +80,20 @@ Here, I will share a list data analytics projects briefly describing the technol
 **Tech Stack:** SQL: PostgreSQL, Power BI
 
 **Result:** The analysis showed total revenue of 6M and 10.39K total orders. Pune, Chennai, and Jaipur emerged as top-performing cities. Sales peak in March, August, and November–December, aligning with seasonal demand. Top-selling products include Cold Brew Pack, Ground Espresso, and Instant Coffee Powder. The dashboard supports strategic decisions in product stocking, city targeting, and seasonal marketing campaigns.
+
+### 6. Gen-Z Career Aspirations Survey Analysis
+
+**Code:** [`GenZ_Career Aspirations.sql`](https://github.com/Sivadharsini298/Portfolio/blob/main/GenZ%20_Career_Aspirations.sql)
+
+**Dashboard:** 
+![GenZ](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/GenZ%20Career%20Aspirations%20Dashboard.png)
+
+**Goal:** To support data-driven decisions related to human resources, organizational culture, and employer branding by understanding Gen-Z career preferences and expectations.
+
+**Description:** This project was focused on extracting meaningful insights from career aspirations survey filled out by Gen-Z respondents. The analysis was performed using basic SQL queries (e.g., counts and groupings) to explore distributions across gender, salary expectations, company preferences, remote work flexibility, and education interests. The cleaned data was visualized in an interactive Power BI dashboard for easy interpretation by HR and leadership teams.
+
+**Skills:** SQL querying (GROUP BY, COUNT), data visualization - Power BI dashboarding
+
+**Tech Stack:** PostgreSQL, Power BI
+
+**Results:** Startups were the most preferred company type, especially among those favoring flexible work. Most respondents expected starting salaries of ₹31k–40k, and many planned to pursue higher education. Uncertainty around long-term job tenure suggests Gen-Z values flexibility and growth over stability.
