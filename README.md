@@ -107,8 +107,8 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 **Description:** This project visualizes 2024 streaming data to highlight the most streamed tracks and artists, streaming seasonality, and platform-specific performance. An interactive dashboard was created using Power BI to allow users to filter data by year and artist, analyze top releases, and compare explicit vs. non-explicit content trends.
 
-**Skills:** Data exploration, trend analysis, dashboard development, visual storytelling
+**Skills:** Data Cleaning and Preparation - Power Query Editor, Data Visualization - Power BI Dashboarding 
 
-**Tech Stack:** Power BI, Excel
+**Tech Stack:** Power BI
 
 **Results:** Spotify streams hit 2 trillion in 2024, with Drake and Bad Bunny topping artist scores. “Danzo Kuduro - Cover” led all tracks with 21B+ streams. Streaming peaked in January and May, and explicit content slightly outperformed non-explicit tracks.
