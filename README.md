@@ -97,3 +97,18 @@ Here, I will share a list data analytics projects briefly describing the technol
 **Tech Stack:** PostgreSQL, Power BI
 
 **Results:** Startups were the most preferred company type, especially among those favoring flexible work. Most respondents expected starting salaries of ₹31k–40k, and many planned to pursue higher education. Uncertainty around long-term job tenure suggests Gen-Z values flexibility and growth over stability.
+
+### 7. Spotify Streaming Analysis 2024
+
+**Dashboard:** 
+![Spotify](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/Spotify%202024%20Dashboard.png)
+
+**Goal:** To explore music streaming trends across platforms, artists, and timeframes, providing actionable insights for artists, labels, and digital marketers.
+
+**Description:** This project visualizes 2024 streaming data to highlight the most streamed tracks and artists, streaming seasonality, and platform-specific performance. An interactive dashboard was created using Power BI to allow users to filter data by year and artist, analyze top releases, and compare explicit vs. non-explicit content trends.
+
+**Skills:** Data exploration, trend analysis, dashboard development, visual storytelling
+
+**Tech Stack:** Power BI, Excel
+
+**Results:** Spotify streams hit 2 trillion in 2024, with Drake and Bad Bunny topping artist scores. “Danzo Kuduro - Cover” led all tracks with 21B+ streams. Streaming peaked in January and May, and explicit content slightly outperformed non-explicit tracks.
