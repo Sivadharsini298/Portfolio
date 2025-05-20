@@ -5,7 +5,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 **Code:** [`Retail_Sales_Analysis.ipynb`](https://github.com/Sivadharsini298/Portfolio/blob/main/Retail_Sales_Analysis.ipynb)
 
-**Dashboard:** ![Retail](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/Retail%20Sales%20Dashboard.png)
+**Excel Dashboard:** ![Retail](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/Retail%20Sales%20Dashboard.png)
 
 **Goal:** To support data-driven decisions related to marketing, operations, and customer strategy.
 
@@ -35,7 +35,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 **To view in Tableau Public:** https://public.tableau.com/views/BritishAirwaysReviewAnalysisDashboard_17463377636260/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-**Dashboard:** ![Review](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/British%20Airways%20Review%20Analysis%20Dashboard.png)
+**Tableau Dashboard:** ![Review](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/British%20Airways%20Review%20Analysis%20Dashboard.png)
 
 **Goal:** To analyze customer reviews of British Airways and uncover insights into service ratings, satisfaction trends by aircraft type, country, and over time.
 
@@ -51,7 +51,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 **File:** [`PrimeVideo_Content_Analysis_Dashboard.pbix`](https://github.com/Sivadharsini298/Portfolio/blob/main/Amazon%20Prime%20Analysis%20Dashboard.pbix)
 
-**Dashboard:** 
+**Power BI Dashboard:** 
 ![Prime](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/Prime%20Video%20Content%20Analysis%20Dashboard.png)
  
 **Goal:** To explore and analyze Prime Video’s content library by genre, country, rating, and release year to understand content distribution and viewing trends.
@@ -68,7 +68,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 **Code:** [`MondayCoffeeAnalysis.sql`](https://github.com/Sivadharsini298/Portfolio/blob/main/MondayCoffeeAnalysis.sql)
 
-**Dashboard:** 
+**Power BI Dashboard:** 
 ![Coffee](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/MondayCoffee%20Dashboard.png)
 
 **Goal:** To use SQL-driven analysis to evaluate product-level performance, uncover customer preferences, and guide inventory, marketing, and bundling strategies.
@@ -85,7 +85,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 **Code:** [`GenZ_Career Aspirations.sql`](https://github.com/Sivadharsini298/Portfolio/blob/main/GenZ%20_Career_Aspirations.sql)
 
-**Dashboard:** 
+**Power BI Dashboard:** 
 ![GenZ](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/GenZ%20Career%20Aspirations%20Dashboard.png)
 
 **Goal:** To support data-driven decisions related to human resources, organizational culture, and employer branding by understanding Gen-Z career preferences and expectations.
@@ -100,7 +100,7 @@ Here, I will share a list data analytics projects briefly describing the technol
 
 ### 7. Spotify Streaming Analysis 2024
 
-**Dashboard:** 
+**Power BI Dashboard:** 
 ![Spotify](https://github.com/Sivadharsini298/Portfolio/blob/main/Visuals/Spotify%202024%20Dashboard.png)
 
 **Goal:** To explore music streaming trends across platforms, artists, and timeframes, providing actionable insights for artists, labels, and digital marketers.
